@@ -14,8 +14,6 @@ function Search({ query }) {
       .then(setResults);
   }, [query]);
 
-  console.log(results);
-
   return <div>{results.length}</div>;
 }
 
