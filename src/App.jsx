@@ -5,9 +5,10 @@ import Timer from "./components/Timer";
 
 import Ex1 from "./gate/Ex1";
 import Ex2 from "./gate/Ex2";
+import Ex3 from "./gate/Ex3";
 
 function App() {
-  return <Ex2 />;
+  return <Ex3 />;
 }
 
 export default App;
